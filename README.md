@@ -79,16 +79,18 @@ flutter analyze
   <img width="200" src="Screenshot_20260528_064827.jpg" />
   <img width="200" src="Screenshot_20260528_064831.jpg" />
   <img width="200" src="Screenshot_20260528_064836.jpg" />
-  <img width="200" src="image.png" />
+  
+  
+
 </div>
 
 ## Infografía
 
 <div align="center">
   <img width="400" src="1.png" />
-  <img width="400" src="2.png" />
-  <img width="400" src="3.png" />
-  <img width="400" src="image-1.png" />
+  <img width="500" src="2.png" />
+  <img width="500" src="3.png" />
+  <img width="600" src="image-1.png" />
 </div>
 
 ---
