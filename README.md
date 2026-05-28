@@ -51,14 +51,15 @@ flutter analyze
 
 | Campo | Valor |
 |---|---|
-| **Correo** | (configurado en Firebase) |
-| **Contraseña** | (configurado en Firebase) |
+| **Correo** | (olivos@gmail.com) |
+| **Contraseña** | (olivos123) |
 
 > El primer usuario registrado se promueve automáticamente a administrador.
 
 ## 📸 Capturas de pantalla
 
 <div align="center">
+  <img width="200" src="image.png" alt="Pantalla 23" />
   <img width="200" src="Screenshot_20260528_064423.jpg" alt="Pantalla 1" />
   <img width="200" src="Screenshot_20260528_064434.jpg" alt="Pantalla 2" />
   <img width="200" src="Screenshot_20260528_064445.jpg" alt="Pantalla 3" />
@@ -81,11 +82,11 @@ flutter analyze
   <img width="200" src="Screenshot_20260528_064827.jpg" alt="Pantalla 20" />
   <img width="200" src="Screenshot_20260528_064831.jpg" alt="Pantalla 21" />
   <img width="200" src="Screenshot_20260528_064836.jpg" alt="Pantalla 22" />
-  <img width="200" src="image.png" alt="Pantalla 23" />
+  
 </div>
 
 ---
 
 <div align="center">
-  <h3>Desarrollado con ❤️ usando Flutter, Firebase, Provider y GoRouter</h3>
+  <h3>Desarrollado usando Flutter, Firebase, Provider y GoRouter</h3>
 </div>
