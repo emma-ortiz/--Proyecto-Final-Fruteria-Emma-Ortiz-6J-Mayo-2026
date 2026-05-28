@@ -1,0 +1,41 @@
+class AppStrings {
+  AppStrings._();
+
+  static const String appName = 'Olivos Verdes';
+  static const String tagline = 'Compra tus frutas favoritas y de temporada';
+  static const String bienvenido = '¡Bienvenido\na la frutería';
+  static const String inicioSesion = 'INICIO DE SESIÓN';
+  static const String creaCuenta = 'CREA TU CUENTA';
+  static const String email = 'Correo';
+  static const String password = 'Contraseña';
+  static const String confirmarPassword = 'Confirmar contraseña';
+  static const String nombre = 'Nombre';
+  static const String direccion = 'Dirección';
+  static const String telefono = 'Teléfono';
+  static const String aceptar = 'Aceptar';
+  static const String continuar = 'Continuar';
+  static const String iniciarSesion = 'Iniciar Sesión o Registrarse';
+  static const String noTienesCuenta = '¿No tienes cuenta? Crea una aquí';
+  static const String siTienesCuenta = '¿Ya tienes cuenta? Inicia sesión';
+  static const String bienvenidoExito = '¡Bienvenido!';
+  static const String loginExitoso = 'Inicio de sesión exitoso';
+  static const String carrito = 'Carrito';
+  static const String perfil = 'Perfil';
+  static const String admin = 'Admin';
+  static const String buscar = 'Buscar frutas...';
+  static const String productos = 'Productos';
+  static const String categorias = 'Categorías';
+  static const String ofertas = 'Ofertas';
+  static const String pedidos = 'Pedidos';
+  static const String total = 'Total';
+  static const String vacio = 'Vacío';
+  static const String cerrarSesion = 'Cerrar sesión';
+  static const String olvidastePassword = '¿Olvidaste tu contraseña?';
+  static const String recuperarPassword = 'Recuperar contraseña';
+  static const String enviarCorreo = 'Enviar correo de recuperación';
+  static const String dashboard = 'Dashboard';
+  static const String gestionarProductos = 'Gestionar Productos';
+  static const String gestionarCategorias = 'Gestionar Categorías';
+  static const String gestionarOfertas = 'Gestionar Ofertas';
+  static const String gestionarPedidos = 'Gestionar Pedidos';
+}
